@@ -11,16 +11,20 @@ all about aisy
 
 **GitHub:** [github.com/aisyahnadzri](https://github.com/aisyahnadzrii)
 
-**LinkedIn:** [linkedin.com/in/aisyahnadzri](https://linkedin.com/in/aisyahnadzri)
+**LinkedIn:** [(https://linkedin.com/in/aisyahnadzri](https://www.linkedin.com/in/aisyah-nadzri-985531228/)
 
 ## About Me
 
-I am a software engineer with a passion for coding and problem-solving. I have experience in web development, data analysis, and machine learning.
+I'm a bioinformatics student passionate about data science and the intersection of biology and technology. Bioinformatics, for those unfamiliar, is all about leveraging computational methods to analyze and interpret biological data. In my academic journey, I'm delving into the fascinating world of genomics, proteomics, and beyond, using data-driven approaches.
+
+My work involves handling diverse datasets, applying statistical analysis, and developing data pipelines to extract valuable insights. Beyond academia, I'm a proponent of open science and collaboration. When I'm not decoding biological puzzles, you'll find me exploring the outdoors or diving into coding projects. Let's connect and explore the incredible potential of data in bioinformatics.
+
+---
 
 ## Skills
 
 - Programming Languages: Python, JavaScript
-- Web Development: HTML, CSS, React
+- Web Development: HTML, CSS, JavaScript
 - Data Analysis: Pandas, NumPy
 - Machine Learning: Scikit-Learn, TensorFlow
 
