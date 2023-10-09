@@ -3,7 +3,7 @@ all about aisy
 
 # Aisyah Nadzri
 
-![Profile Picture]([https://example.com/profile-picture.jpg](https://i.pinimg.com/564x/bb/e6/cd/bbe6cd2d5237884aaffc7917e259c3d6.jpg))
+![Profile Picture](https://i.pinimg.com/564x/bb/e6/cd/bbe6cd2d5237884aaffc7917e259c3d6.jpg)
 
 **Location:** Johor Bahru, Johor
 
